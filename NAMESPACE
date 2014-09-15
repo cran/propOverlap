@@ -1,0 +1,3 @@
+importFrom(Biobase, rowQ)
+export(CI.emprical, GMask, Min.Set, POS, RDC, Sel.Features)
+exportPattern("^[[:alpha:]]+")
